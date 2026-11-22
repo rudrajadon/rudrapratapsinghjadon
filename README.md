@@ -1,4 +1,4 @@
-# rudrajadon.in
+# rudrapratapsinghjadon
 
 Personal portfolio of Rudra Pratap Singh Jadon, AI Engineer.
 
@@ -26,7 +26,7 @@ The build writes the production website to `dist/`. Node.js is required for the 
 
 The root directory contains the website and its assets. The `.nojekyll` file serves it as a static site.
 
-The default project URL is https://rudrajadon.github.io/rudrajadon.in/.
+The default project URL is https://rudrajadon.github.io/rudrapratapsinghjadon/.
 
 To use a custom domain, configure it in **Settings → Pages → Custom domain** and add the DNS records shown by GitHub.
 
